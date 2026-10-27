@@ -1,3 +1,5 @@
+# uvicorn get_and_post_api:app --reload
+
 from typing import Union
 
 from fastapi import FastAPI
