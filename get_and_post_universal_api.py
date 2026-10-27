@@ -1,4 +1,4 @@
-
+# uvicorn get_and_post_fastapi:app --reload
 import os
 os.environ["OMP_NUM_THREADS"] = "1"
 
